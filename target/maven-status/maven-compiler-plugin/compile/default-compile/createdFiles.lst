@@ -1,2 +1,14 @@
-com/doublev/prueba/PruebaDoubleVController.class
+com/doublev/prueba/hotel/repository/TicketRepository.class
+com/doublev/prueba/hotel/controller/TicketController.class
+com/doublev/prueba/hotel/security/CustomUserDetailsService.class
+com/doublev/prueba/hotel/controller/AuthController.class
+com/doublev/prueba/hotel/repository/UsuarioRepository.class
+com/doublev/prueba/hotel/security/JwtFilter.class
+com/doublev/prueba/hotel/security/JwtUtil.class
+com/doublev/prueba/hotel/model/Ticket.class
 com/doublev/prueba/App.class
+com/doublev/prueba/hotel/security/SecurityConfig.class
+com/doublev/prueba/hotel/model/Usuario.class
+com/doublev/prueba/PruebaDoubleVController.class
+com/doublev/prueba/hotel/model/Ticket$StatusTicket.class
+com/doublev/prueba/hotel/controller/UsuarioController.class

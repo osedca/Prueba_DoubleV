@@ -1,2 +1,13 @@
-/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/PruebaDoubleVController.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/controller/TicketController.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/repository/UsuarioRepository.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/security/JwtFilter.java
 /home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/App.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/controller/UsuarioController.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/security/JwtUtil.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/repository/TicketRepository.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/controller/AuthController.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/security/CustomUserDetailsService.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/PruebaDoubleVController.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/security/SecurityConfig.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/model/Usuario.java
+/home/devlinux/Prueba_DoubleV/backend-springboot/src/main/java/com/doublev/prueba/hotel/model/Ticket.java
